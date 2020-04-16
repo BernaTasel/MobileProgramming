@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MobileProgramming</string>
+
+
+    <string-array name="gender_array">
+        <item>Choose ...</item>
+        <item>Female</item>
+        <item>Male</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="language_array">
+        <item>Choose ...</item>
+        <item>English</item>
+        <item>Turkish</item>
+        <item>French</item>
+    </string-array>
+</resources>
